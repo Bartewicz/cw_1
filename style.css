@@ -1,9 +1,11 @@
 body {
 	background: #996633;
 	margin: 0 auto;
+    text-align: center;
 }
 
 h1 {
+    color: #AAAA00
 	font-size: 20pt;
 	font-weight: bold;
 }
